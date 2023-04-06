@@ -103,7 +103,7 @@
 
 // DAY 02 - 6 APRIL
 
-var zakatPercentage = 0.0254;
+var zakatPercentage = 0.025;
 var userInput = Number( prompt("Enter a number"));
 var result = (zakatPercentage) * (userInput);
 alert ("Your zakat value is " + result)
