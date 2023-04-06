@@ -97,5 +97,13 @@
 // var defaultAnswer = "human";
 // var spec = prompt(question, defaultAnswer);
 
-var numberOfCats = prompt("How many cats?");
-var tooManyCats = numberOfCats + 1;
+// var numberOfCats = prompt("How many cats?");
+// var tooManyCats = numberOfCats + 1;
+
+
+// DAY 02 - 6 APRIL
+
+var zakatPercentage = 0.0254;
+var userInput = Number( prompt("Enter a number"));
+var result = (zakatPercentage) * (userInput);
+alert ("Your zakat value is " + result)
