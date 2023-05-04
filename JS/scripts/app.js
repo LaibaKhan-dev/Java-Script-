@@ -144,19 +144,19 @@
 
 // DAY 03 - 12 APRIL Task NO.3
 
-var SecretNumber = +prompt("Guess the secret number between (1 and 10)");
+// var SecretNumber = +prompt("Guess the secret number between (1 and 10)");
 
-if (SecretNumber == 6) {
-alert("Congratulations! You guessed the secret number");
-}
+// if (SecretNumber == 6) {
+// alert("Congratulations! You guessed the secret number");
+// }
 
-else if(SecretNumber <= 6){
-    alert("Your guess is too closed"); 
-}
+// else if(SecretNumber <= 6){
+//     alert("Your guess is too closed"); 
+// }
 
-else {
-    alert("guess again"); 
-} 
+// else {
+//     alert("guess again"); 
+// } 
 
 
 
